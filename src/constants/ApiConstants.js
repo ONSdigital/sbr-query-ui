@@ -1,0 +1,8 @@
+// Ref Search
+export const SET_REF_RESULTS = 'SET_REF_RESULTS';
+export const SET_REF_HEADERS = 'SET_REF_HEADERS';
+export const SENDING_REF_REQUEST = 'SENDING_REF_REQUEST';
+export const SET_REF_QUERY = 'SET_REF_QUERY';
+export const SET_REF_FILTER = 'SET_REF_FILTER';
+export const SET_REF_PERIOD = 'SET_REF_PERIOD';
+export const SET_REF_ERROR_MESSAGE = 'SET_REF_ERROR_MESSAGE';
